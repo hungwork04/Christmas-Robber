@@ -1,0 +1,4 @@
+repository "Candy Miner@viethung301204@cloud"
+  path "/"
+    br "/main"
+    co "/main"

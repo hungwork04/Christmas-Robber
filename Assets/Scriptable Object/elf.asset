@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79f92f091032bf548b00b636c573f4b5, type: 3}
+  m_Name: elf
+  m_EditorClassIdentifier: 
+  name: elf
+  sprite: {fileID: -915141504, guid: be68663a71df70348a1eb756945155c8, type: 3}
+  value: 700
+  MaxQuan: 1
